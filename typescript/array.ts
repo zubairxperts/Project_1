@@ -154,3 +154,4 @@ console.log("last index:",lastIndex) */
 
 let a:number=1,2,3,4;
 console.log("Zubair 1st update");
+console.log("Hari 1st update");
